@@ -5,6 +5,7 @@
     Sub Main()
         Console.WriteLine("Tic Tac Toe by Ryan Vrobel!")
         Console.WriteLine("Edited on GitHub")
+        Console.WriteLine("Changed on GitHub")
         Dim myBoard As New TTTBoard
         myBoard.ResetBoard()
         Dim gameover As Boolean = False
